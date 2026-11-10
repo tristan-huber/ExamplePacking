@@ -6,9 +6,9 @@
 
 ## Inputs
 
+- **tool_size** (number)
 - **part_width** (number)
 - **part_height** (number)
-- **tool_size** (number)
 
 
 
